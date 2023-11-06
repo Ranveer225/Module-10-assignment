@@ -20,5 +20,8 @@ public static void proftops()
     {
         System.out.println("casual tops");
     }
-
+   public void partytops()
+   {
+       System.out.println("party tops");
+   }
 }
