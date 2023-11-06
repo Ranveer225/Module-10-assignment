@@ -55,12 +55,19 @@ public static void proftops()
    }
    
    public static void casualshoes()
+           // function for casual shoes
    {
        System.out.println("casual shoes");
    }
    
    public static void partyshoes()
+           // function for party shoes
    {
        System.out.println("party shoes");
    }
+   public static void main(String args[])
+   {
+       tops t = new tops();
+       // Create an object for tops and call it t
+}
 }
