@@ -13,5 +13,12 @@ public class GarmentSimulator {
 public static void proftops() 
         // Implemented function to show professional tops     
 {
+         System.out.println("professional tops");
     }
+       
+    public void casualtops()
+    {
+        System.out.println("casual tops");
+    }
+
 }
