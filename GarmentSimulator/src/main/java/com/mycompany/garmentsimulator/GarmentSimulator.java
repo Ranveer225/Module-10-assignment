@@ -67,7 +67,13 @@ public static void proftops()
    }
    public static void main(String args[])
    {
-       tops t = new tops();
-       // Create an object for tops and call it t
 }
+tops t = new tops(); 
+// Create an object for tops and call it t
+
+pants p = new pants();
+// Do same from tops to pants and vice versa 
+
+shoes s = new shoes();
 }
+
