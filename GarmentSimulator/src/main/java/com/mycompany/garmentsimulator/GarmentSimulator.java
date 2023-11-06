@@ -45,4 +45,22 @@ public static void proftops()
    {
        System.out.println("party pants");
    }
+   
+   public class shoes{
+   }
+   
+   public static void profshoes()
+   {
+       System.out.println("professional shoes");
+   }
+   
+   public static void casualshoes()
+   {
+       System.out.println("casual shoes");
+   }
+   
+   public static void partyshoes()
+   {
+       System.out.println("party shoes");
+   }
 }
