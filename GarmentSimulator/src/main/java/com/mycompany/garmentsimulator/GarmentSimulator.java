@@ -16,12 +16,33 @@ public static void proftops()
          System.out.println("professional tops");
     }
        
-    public void casualtops()
+    public static void casualtops()
+            //added function to show casualtops
     {
         System.out.println("casual tops");
     }
-   public void partytops()
+   public static void partytops()
+           //function to show partytops
    {
        System.out.println("party tops");
+   }
+   public class pants{
+   
+}
+   public static void profpants()
+           //function for professional pants
+   {
+       System.out.println("professional pants");
+   }
+   
+   public static void casualpants()
+          //function for casual pants
+   {
+       System.out.println("casual pants");
+   }
+   
+   public static void partypants()
+   {
+       System.out.println("party pants");
    }
 }
